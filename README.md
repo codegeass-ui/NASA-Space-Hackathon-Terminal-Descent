@@ -138,9 +138,6 @@ The central idea is simple: **A spacecraft's mission may end, but its contributi
 
 **Website:**  
 The interactive website is available in this repository. Open the HTML file in a web browser to explore the project.
-or 
-click the website link below: 
-(file:///C:/Users/ADMIN/Downloads/Telegram%20Desktop/echoes_in_the_dark_fixed-1.html#origins) 
 
 ## Sources & Acknowledgements
 
