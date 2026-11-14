@@ -161,7 +161,7 @@ Archival space imagery and mission resources are credited to their respective so
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 NASA images and other third-party materials belong to their respective owners and are subject to their applicable usage terms.
 
 ---
