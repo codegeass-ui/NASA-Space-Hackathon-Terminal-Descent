@@ -154,10 +154,16 @@ Archival space imagery and mission resources are credited to their respective so
 
 **Project:** Echoes in the Dark: The Untold Story of Voyager 1 & 2  
 **Team:** Terminal Descent  
-**Creator:** Hrinika Sharma  
+**Creator:** Hrinika Sharma 
 **Event:** NASA International Space Apps Challenge 2026  
 **Challenge:** Abandoned but not Forgotten
 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+NASA images and other third-party materials belong to their respective owners and are subject to their applicable usage terms.
+
 ---
 
-*Every major space breakthrough today stands on the shoulders of past missions.*
+  *Every major space breakthrough today stands on the shoulders of past missions.*
