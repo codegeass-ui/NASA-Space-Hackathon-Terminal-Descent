@@ -138,6 +138,8 @@ The central idea is simple: **A spacecraft's mission may end, but its contributi
 
 **Website:**  
 The interactive website is available in this repository. Open the HTML file in a web browser to explore the project.
+or
+https://echoes-in-the-dark.netlify.app 
 
 ## Sources & Acknowledgements
 
