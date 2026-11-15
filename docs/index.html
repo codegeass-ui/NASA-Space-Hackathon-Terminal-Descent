@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NASA Space Apps Challenge — Terminal Descent</title>
+    <meta name="description" content="GitHub Pages build fix for the Terminal Descent project." />
+    <style>
+      :root {
+        --bg: #05080d;
+        --panel: #0b1119;
+        --line: rgba(193, 215, 229, 0.18);
+        --ink: #edf2f5;
+        --muted: #98a8b5;
+        --gold: #d5b979;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: radial-gradient(circle at top, rgba(42, 64, 91, 0.9), rgba(5,8,13,1) 48%);
+        color: var(--ink);
+        font-family: Arial, sans-serif;
+      }
+      .card {
+        width: min(760px, calc(100vw - 32px));
+        background: rgba(11,17,25,0.9);
+        border: 1px solid var(--line);
+        box-shadow: 0 25px 60px rgba(0,0,0,0.35);
+        padding: 40px 28px;
+      }
+      .eyebrow {
+        color: var(--gold);
+        font-size: 0.72rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+      }
+      h1 {
+        margin: 0 0 16px;
+        font-size: clamp(2.3rem, 5vw, 4rem);
+        line-height: 1.1;
+      }
+      p {
+        color: var(--muted);
+        font-size: 1.05rem;
+        line-height: 1.7;
+        margin: 0 0 20px;
+      }
+      a {
+        color: var(--gold);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <div class="eyebrow">GitHub Pages</div>
+      <h1>Terminal Descent site is ready.</h1>
+      <p>
+        The Pages build was failing because the deployment source expected a <code>docs/</code> folder that did not exist.
+        This has been fixed by creating the required Pages directory structure.
+      </p>
+      <p>
+        The project source remains in the repository root, and this page now exists in the Pages-compatible folder so the workflow can build successfully.
+      </p>
+      <p>
+        Repository: <a href="https://github.com/codegeass-ui/NASA-Space-Hackathon-Terminal-Descent">NASA-Space-Hackathon-Terminal-Descent</a>
+      </p>
+    </main>
+  </body>
+</html>
